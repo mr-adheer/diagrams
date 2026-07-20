@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="togMF4EJ84B340Ch4geY">
-    <mxGraphModel dx="5977" dy="4039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="1668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="720" width="2125" x="-375" y="390" as="geometry" />
+        <mxCell id="wMYja4TCW7F0Ptas6r4l-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="990" width="2310" x="-270" y="420" as="geometry" />
         </mxCell>
         <mxCell id="4bkwOp7Fot7g2B5U5v_5-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/hero-icons/1/Outline_Cpu_Chip.svg" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;GPU (Graphis Processing Unit)&lt;/font&gt;&lt;/b&gt;&lt;div&gt;Manu Small Cores For Parallel Processing&lt;/div&gt;&lt;div&gt;Built for Graphics Processing&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="110" x="1480" y="-120" as="geometry" />
@@ -16,44 +16,44 @@
         <mxCell id="4bkwOp7Fot7g2B5U5v_5-5" parent="1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;fontSize=16;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;NPU (Neural Processing Unit)&lt;/font&gt;&lt;/b&gt;&lt;div&gt;Tiny Ultra Efficient Chips built in to the CPU&lt;/div&gt;&lt;div&gt;Can Handle Everyday AI tasks locally&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="140" x="940" y="-110" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Linear Algebra (&lt;/font&gt;Organizing Data&lt;font style=&quot;&quot;&gt;)&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;V&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ectors (lists of numbers)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;matrices (grids of numbers)&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="290" x="-165" y="880" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=24;verticalAlign=middle;" value="&lt;b&gt;&lt;font&gt;&lt;font&gt;Linear Algebra (&lt;/font&gt;Organizing Data&lt;font&gt;)&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;V&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ectors (lists of numbers)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;matrices (grids of numbers)&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="380" x="-210" y="1039.43" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Calculus (&lt;/font&gt;Learning and Adjusting&lt;font style=&quot;&quot;&gt;)&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="290" x="185" y="880" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=24;" value="&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;font&gt;Calculus (&lt;/font&gt;Learning and Adjusting&lt;font&gt;)&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="370" x="215" y="1029.43" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Helps AI turn real-world things like a photo or a word into structured data the computer can process" vertex="1">
-          <mxGeometry height="30" width="290" x="-165" y="950" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;" value="Helps AI turn real-world things like a photo or a word into structured data the computer can process" vertex="1">
+          <mxGeometry height="101" width="370" x="-210" y="1190" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Calculus is used during the &quot;training&quot; phase&lt;div&gt;Used to measures how wrong the AI&#39;s prediction is and takes steps to fix it&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="280" x="185" y="950" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;" value="Calculus is used during the &quot;training&quot; phase&lt;div&gt;Used to measures how wrong the AI&#39;s prediction is and takes steps to fix it&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150.57" width="385" x="215" y="1180" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Probability &amp;amp; Statistics (&lt;/span&gt;Handling Uncertainty&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="310" x="515" y="880" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=24;" value="&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Probability &amp;amp; Statistics (&lt;/span&gt;Handling Uncertainty&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="370" x="645" y="1019.4300000000001" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Helps AI to&amp;nbsp;make educated guesses&amp;nbsp;or assess the likelihood of an event" vertex="1">
-          <mxGeometry height="30" width="280" x="535" y="950" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;" value="Helps AI to&amp;nbsp;make educated guesses&amp;nbsp;or assess the likelihood of an event" vertex="1">
+          <mxGeometry height="60.57" width="382.5" x="627.5" y="1199.43" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Statistics (Analyzing Data)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="310" x="915" y="880" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=24;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font&gt;Statistics (Analyzing Data)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="370" x="1085" y="1014.4300000000001" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Calculus is used during the &quot;training&quot; phase to help the AI learn from its mistakes&lt;div&gt;Spot hidden patterns, and draw useful conclusions&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="300" x="920" y="950" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;" value="Calculus is used during the &quot;training&quot; phase to help the AI learn from its mistakes&lt;div&gt;Spot hidden patterns, and draw useful conclusions&lt;/div&gt;" vertex="1">
+          <mxGeometry height="81" width="410" x="1065" y="1199" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Graph Theory (Understanding Connections)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Part of Descrete Maths, How different data relate to each other&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="310" x="1295" y="880" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=24;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font&gt;Graph Theory (Understanding Connections)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="370" x="1575" y="1014.4300000000001" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Ex Video Recommendations" vertex="1">
-          <mxGeometry height="30" width="280" x="1315" y="950" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;" value="Ex Video Recommendations" vertex="1">
+          <mxGeometry height="30" width="280" x="1630" y="1270" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Tensor math&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Linear Algebra with dimentions&lt;/div&gt;&lt;div&gt;Matrix/Tensor multiplication&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="290" x="-155" y="525" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=24;" value="&lt;div&gt;&lt;b&gt;&lt;font&gt;Tensor math&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Linear Algebra with dimentions&lt;/div&gt;&lt;div&gt;Matrix/Tensor multiplication&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="385" x="-180" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="0-D Tensor (Scalar) : 5&lt;div&gt;1-D Tensor (Vector) : [5,6]&lt;/div&gt;&lt;div&gt;2-D Tensor (Matrix) : Ex: Excel sheet (rows &amp;amp; Columns)&lt;/div&gt;&lt;div&gt;3-D Tensor (Cube) : Stacked matrix&lt;/div&gt;&lt;div&gt;N-D Tensor (High-Dimensional Tensor) : Stack of Cubes, or Stack of Stack of Cubes&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="450" x="-155" y="610" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;" value="0-D Tensor (Scalar) : 5&lt;div&gt;1-D Tensor (Vector) : [5,6]&lt;/div&gt;&lt;div&gt;2-D Tensor (Matrix) : Ex: Excel sheet (rows &amp;amp; Columns)&lt;/div&gt;&lt;div&gt;3-D Tensor (Cube) : Stacked matrix&lt;/div&gt;&lt;div&gt;N-D Tensor (High-Dimensional Tensor) : Stack of Cubes, or Stack of Stack of Cubes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="940" x="-180" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="4bkwOp7Fot7g2B5U5v_5-19" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;rotation=90;horizontal=0;flipH=1;legacyAnchorPoints=0;flipV=0;" value="Make Linear Algebra Efficient" vertex="1">
-          <mxGeometry height="95" width="103" x="-71.5" y="720" as="geometry" />
+        <mxCell id="4bkwOp7Fot7g2B5U5v_5-19" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;rotation=90;horizontal=0;flipH=1;legacyAnchorPoints=0;flipV=0;fontSize=24;" value="Efficient&lt;div&gt;Linear Algebra&lt;/div&gt;" vertex="1">
+          <mxGeometry height="144.43" width="200" x="-160" y="765" as="geometry" />
         </mxCell>
         <mxCell id="4bkwOp7Fot7g2B5U5v_5-26" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=20;fontStyle=1" value="&amp;lt;/code&amp;gt;" vertex="1">
           <mxGeometry height="80" width="322" x="593" y="170" as="geometry" />
@@ -79,6 +79,17 @@
         </mxCell>
         <mxCell id="4bkwOp7Fot7g2B5U5v_5-31" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rotation=-90;" value="" vertex="1">
           <mxGeometry height="70" width="100" x="807.5" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wMYja4TCW7F0Ptas6r4l-2" edge="1" parent="1" source="wMYja4TCW7F0Ptas6r4l-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startSize=5;endArrow=classic;endFill=1;endSize=10;curved=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wMYja4TCW7F0Ptas6r4l-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=22;fontStyle=1" value="Training Data" vertex="1">
+          <mxGeometry height="150" width="185" x="135" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="wMYja4TCW7F0Ptas6r4l-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Part of Descrete Maths, How different data relate to each other&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="61" width="340" x="1600" y="1169" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
