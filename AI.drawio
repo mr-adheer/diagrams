@@ -88,6 +88,9 @@
         <mxCell id="wMYja4TCW7F0Ptas6r4l-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Part of Descrete Maths, How different data relate to each other&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="61" width="340" x="1600" y="1169" as="geometry" />
         </mxCell>
+        <mxCell id="wMYja4TCW7F0Ptas6r4l-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=38;fontStyle=1" value="MATH" vertex="1">
+          <mxGeometry height="65" width="146" x="723" y="526" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
