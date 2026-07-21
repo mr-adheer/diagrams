@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="togMF4EJ84B340Ch4geY">
-    <mxGraphModel dx="2975" dy="1835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3343" dy="2040" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,10 +47,10 @@
           <mxGeometry height="30" width="280" x="1630" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="4bkwOp7Fot7g2B5U5v_5-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=24;" value="&lt;div&gt;&lt;b&gt;&lt;font&gt;Tensor math&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Linear Algebra with dimentions&lt;/div&gt;&lt;div&gt;Matrix/Tensor multiplication&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="385" x="-207" y="568" as="geometry" />
+          <mxGeometry height="120" width="385" x="-224" y="470" as="geometry" />
         </mxCell>
         <mxCell id="4bkwOp7Fot7g2B5U5v_5-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;" value="0-D Tensor (Scalar) : 5&lt;div&gt;1-D Tensor (Vector) : [5,6]&lt;/div&gt;&lt;div&gt;2-D Tensor (Matrix) : Ex: Excel sheet (rows &amp;amp; Columns)&lt;/div&gt;&lt;div&gt;3-D Tensor (Cube) : Stacked matrix&lt;/div&gt;&lt;div&gt;N-D Tensor (High-Dimensional Tensor) : Stack of Cubes, or Stack of Stack of Cubes&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="940" x="-207" y="738" as="geometry" />
+          <mxGeometry height="70" width="940" x="-224" y="640" as="geometry" />
         </mxCell>
         <mxCell id="4bkwOp7Fot7g2B5U5v_5-26" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=24;fontStyle=1" value="&amp;lt;/code&amp;gt;" vertex="1">
           <mxGeometry height="80" width="322" x="593" y="170" as="geometry" />
