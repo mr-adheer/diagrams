@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="togMF4EJ84B340Ch4geY">
-    <mxGraphModel dx="3343" dy="2840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3343" dy="3240" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fq0VUgyCbGYo0yB33k3c-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="341" width="636" x="911" y="-1147" as="geometry" />
+          <mxGeometry height="341" width="636" x="325" y="-1518" as="geometry" />
         </mxCell>
         <mxCell id="wMYja4TCW7F0Ptas6r4l-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="990" width="2310" x="-270" y="420" as="geometry" />
@@ -107,37 +107,37 @@
           <mxGeometry height="30" width="496" x="818.5" y="-468.5" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="AI Application" vertex="1">
-          <mxGeometry height="30" width="266" x="1069" y="-1139" as="geometry" />
+          <mxGeometry height="30" width="266" x="483" y="-1510" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-10" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/hero-icons/1/Outline_Cpu_Chip.svg;fontSize=24;" value="&lt;b&gt;GPU/NPU&lt;/b&gt;" vertex="1">
-          <mxGeometry height="110" width="110" x="1422" y="-1024" as="geometry" />
+          <mxGeometry height="110" width="110" x="836" y="-1395" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-11" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Network_Intel_Node.svg;rotation=90;" value="" vertex="1">
-          <mxGeometry height="191" width="191" x="1044" y="-1062" as="geometry" />
+          <mxGeometry height="191" width="191" x="458" y="-1433" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;rotation=0;" value="LOAD" vertex="1">
-          <mxGeometry height="30" width="60" x="1271" y="-1011" as="geometry" />
+          <mxGeometry height="30" width="60" x="685" y="-1382" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-14" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rotation=0;" value="" vertex="1">
-          <mxGeometry height="70" width="161" x="1230" y="-995" as="geometry" />
+          <mxGeometry height="70" width="161" x="644" y="-1366" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-19" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" value="" vertex="1">
-          <mxGeometry height="50" width="47.5" x="1182.5" y="-607" as="geometry" />
+          <mxGeometry height="50" width="47.5" x="596.5" y="-978" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" value="FRONT END" vertex="1">
-          <mxGeometry height="33" width="632" x="911" y="-806" as="geometry" />
+          <mxGeometry height="33" width="632" x="325" y="-1177" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-21" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rotation=-90;" value="" vertex="1">
-          <mxGeometry height="70" width="114" x="1150" y="-729" as="geometry" />
+          <mxGeometry height="70" width="114" x="564" y="-1100" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=29;rotation=0;" value="Input Information (Text, Image etc)" vertex="1">
-          <mxGeometry height="30" width="295" x="1216" y="-697" as="geometry" />
+          <mxGeometry height="30" width="295" x="630" y="-1068" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-23" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rotation=0;" value="" vertex="1">
-          <mxGeometry height="70" width="114" x="1600" y="-1001.5" as="geometry" />
+          <mxGeometry height="70" width="114" x="1014" y="-1372.5" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=29;rotation=0;" value="Output&lt;div&gt;(Image, Explaination etc)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="348" x="1707" y="-984" as="geometry" />
+          <mxGeometry height="65" width="348" x="1142" y="-1370" as="geometry" />
         </mxCell>
         <mxCell id="A6hRUFD71W6rOsXFQw-H-1" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" value="" vertex="1">
           <mxGeometry height="110" width="157" x="466" y="-494" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry height="53" width="168" x="269" y="-472" as="geometry" />
         </mxCell>
         <mxCell id="A6hRUFD71W6rOsXFQw-H-3" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" value="" vertex="1">
-          <mxGeometry height="110" width="157" x="926" y="-1031.5" as="geometry" />
+          <mxGeometry height="110" width="157" x="340" y="-1402.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
