@@ -109,17 +109,14 @@
         <mxCell id="fq0VUgyCbGYo0yB33k3c-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="AI Application" vertex="1">
           <mxGeometry height="30" width="266" x="483" y="-1510" as="geometry" />
         </mxCell>
-        <mxCell id="fq0VUgyCbGYo0yB33k3c-10" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/hero-icons/1/Outline_Cpu_Chip.svg;fontSize=24;" value="&lt;b&gt;GPU/NPU&lt;/b&gt;" vertex="1">
-          <mxGeometry height="110" width="110" x="836" y="-1395" as="geometry" />
+        <mxCell id="fq0VUgyCbGYo0yB33k3c-10" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/hero-icons/1/Outline_Cpu_Chip.svg;fontSize=32;" value="&lt;b&gt;GPU/NPU&lt;/b&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="799" y="-1487" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-11" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Network_Intel_Node.svg;rotation=90;" value="" vertex="1">
-          <mxGeometry height="191" width="191" x="458" y="-1433" as="geometry" />
-        </mxCell>
-        <mxCell id="fq0VUgyCbGYo0yB33k3c-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;rotation=0;" value="LOAD" vertex="1">
-          <mxGeometry height="30" width="60" x="685" y="-1382" as="geometry" />
+          <mxGeometry height="147" width="147" x="425" y="-1483" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-14" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rotation=0;" value="" vertex="1">
-          <mxGeometry height="70" width="161" x="644" y="-1366" as="geometry" />
+          <mxGeometry height="70" width="161" x="619" y="-1458" as="geometry" />
         </mxCell>
         <mxCell id="fq0VUgyCbGYo0yB33k3c-19" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" value="" vertex="1">
           <mxGeometry height="50" width="47.5" x="596.5" y="-978" as="geometry" />
@@ -146,7 +143,13 @@
           <mxGeometry height="53" width="168" x="269" y="-472" as="geometry" />
         </mxCell>
         <mxCell id="A6hRUFD71W6rOsXFQw-H-3" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" value="" vertex="1">
-          <mxGeometry height="110" width="157" x="340" y="-1402.5" as="geometry" />
+          <mxGeometry height="110" width="157" x="435" y="-1319" as="geometry" />
+        </mxCell>
+        <mxCell id="A6hRUFD71W6rOsXFQw-H-6" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rotation=0;" value="" vertex="1">
+          <mxGeometry height="70" width="161" x="609" y="-1301" as="geometry" />
+        </mxCell>
+        <mxCell id="A6hRUFD71W6rOsXFQw-H-7" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;fontSize=32;fontStyle=1" value="CPU" vertex="1">
+          <mxGeometry height="113" width="113" x="797" y="-1327" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
